@@ -1,1 +1,37 @@
-Data Analysis of Medical patients
+🩺 Heart Disease Analysis – Key Insights
+- Total Patients Analyzed: 303
+- Heart Disease Prevalence: 45.9% of patients have heart disease.
+
+📊 Demographics & Key Metrics
+- Average Age: 54.4 years
+- Average Resting Blood Pressure: 131.7 mmHg
+- Average Serum Cholesterol: 246.7 mg/dl
+- Average Max Heart Rate Achieved: 149.6 bpm
+
+🔍 Notable Patterns & Observations
+1. Sex-Based Distribution:
+- Males: Higher heart disease rate (55%) compared to females (26%).
+- Males also show higher counts in most risk categories like exercise-induced angina and multiple vessel disease.
+
+2. Chest Pain Types:
+- Most common: Typical Angina (47.5%)
+- High heart disease correlation with Asymptomatic chest pain.
+
+3. Blood Pressure Categories:
+- Largest group: Stage 2 Hypertension (98 patients)
+- High BP linked with higher cholesterol and heart disease presence.
+
+4. Cholesterol Levels:
+- High Cholesterol: Most prevalent (160 patients)
+- Males had higher cholesterol levels on average.
+
+5. Exercise Induced Angina:
+- More common in males.
+- Strongly associated with presence of heart disease.
+
+6. Electrocardiogram Results: Majority had normal or ST-T wave abnormalities.
+
+📈 Trends by Age
+- Heart disease and associated risks (e.g., low max heart rate, high cholesterol) increase with age.
+- Notable age group with higher disease prevalence: 50–60 years.
+
