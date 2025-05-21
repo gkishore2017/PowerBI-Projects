@@ -1,0 +1,27 @@
+🔍 Project Objective:
+The goal of this project is to analyze operational efficiency and customer service performance in a call center using Power BI. By transforming raw call data
+into meaningful visual insights, this dashboard helps management make informed decisions to improve agent productivity, customer satisfaction, and overall call
+center effectiveness.
+
+📊 Key Metrics & Insights Provided:
+Total Calls Received: Displays call volume trends across different days, weeks, or months.
+Average Call Handling Time: Helps evaluate how long agents take to resolve calls, which reflects on both efficiency and training needs.
+Customer Satisfaction (CSAT) Scores: Visualizes satisfaction ratings, highlighting areas needing service improvement.
+Call Abandonment Rates: Identifies how often customers disconnect before speaking to an agent, pointing to staffing or wait time issues.
+Peak Call Hours: Analyzes time-of-day trends to optimize agent scheduling and resource allocation.
+Agent Performance Analysis: Compares agents on metrics such as calls handled, resolution rates, and feedback scores.
+
+🧰 Tools and Techniques Used:
+Power BI for building the dashboard with interactive visuals and slicers.
+DAX Measures to calculate KPIs such as average handling time, call volumes by hour, and satisfaction percentages.
+Data Cleaning and transformation in Power Query for formatting and filtering raw Excel data (Call_Center_Dataset.xlsx).
+
+📈 Outcomes and Impact:
+Provided a clear overview of performance at both a team and individual agent level.
+Helped identify operational bottlenecks, peak traffic times, and underperforming areas.
+Enabled data-driven decisions for training, hiring, and customer experience improvements.
+
+📁 Files Included:
+Call Center Analysis Dashboard.pbix: The Power BI report file with interactive visuals.
+Call Center Analysis Dashboard.pdf: A static version for sharing insights offline.
+Call_Center_Dataset.xlsx: The source dataset used for the analysis.
