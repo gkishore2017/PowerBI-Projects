@@ -1,0 +1,46 @@
+ Call Center Analysis Dashboard – Summary
+✅ Key Metrics
+  - Total Calls: 5,000
+  - Average Call Duration: 1.0 minute
+  - Resolution Rate: 100%
+  - Average Satisfaction Rating: 3.4 / 5
+  - Average Speed of Answer: 67.5 seconds
+  - Calls Answered by Agents: 4,054
+  - Number of Agents: 8
+
+👥 Agent Performance
+  - Calls Answered: Spread across 8 agents, with Jim, Martha, Dan, Diane, Becky, Greg, Joe, and Stewart handling calls.
+  - Agent-Specific Metrics: Includes average call duration, resolution rate, and calls answered per agent.
+
+Example:
+  - Jim: 666 calls answered (13.3% of total)
+  - Stewart: ~582 calls
+All agents have a 100% resolution rate.
+
+📞 Call Topics
+Topics Covered:
+  - Streaming
+  - Technical Support
+  - Payment Related
+  - Admin Support
+  - Contract Related
+
+Calls by Topic:
+  - Each topic received ~1,000 calls (approx. 20% each).
+
+Average Duration by Topic:
+  - Slight variation by topic, visible in bar charts.
+
+📅 Time-Based Insights
+  - Calls Over Time: Trends show call volume and average duration by hour (e.g., from 09:00 to 17:00).
+  - Monthly Call Volume: January, February, and March show consistent upward or stable trends.
+  - Answered Percentage per Month: All above 99%, indicating excellent responsiveness.
+
+📈 Visual Highlights
+Bar Charts for:
+  - Calls answered per agent
+  - Average talk duration by topic
+  - Resolution rate by agent
+Pie Charts for:
+  - Answered vs. Unanswered Calls (81.08% vs. 18.92%)
+  - Calls answered by topic
