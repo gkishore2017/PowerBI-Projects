@@ -1,0 +1,38 @@
+🔍 Project Objective:
+This project aims to analyze and visualize heart disease data to uncover patterns and risk factors associated with heart-related health issues. 
+The dashboard provides stakeholders—such as healthcare professionals, analysts, or policymakers—with clear, data-driven insights that can aid in early 
+detection and preventive healthcare planning.
+
+📊 Key Metrics & Insights Provided:
+Patient Demographics:
+Distribution by age and gender to highlight at-risk groups.
+Age group segmentation to show how heart disease prevalence changes with age.
+
+Medical and Lifestyle Factors:
+Impact of cholesterol levels, blood pressure, resting ECG, chest pain types, and fasting blood sugar on heart disease.
+Relationship between exercise-induced angina and heart disease occurrence.
+
+Risk Factor Correlations:
+Identifies which features (like maximum heart rate, thalassemia, or oldpeak) are most associated with heart disease diagnosis.
+Compares patients with and without heart disease across multiple variables.
+
+Heart Disease Classification:
+A binary classification (presence vs. absence) of heart disease using existing data columns for easier analysis.
+
+🧰 Tools and Techniques Used:
+Power BI for building interactive visualizations and slicers to explore the data dynamically.
+Power Query to clean and transform the raw CSV data (heart_disease_dataset.csv).
+DAX Measures to calculate averages, segment populations, and derive key health indicators.
+Data Modeling to connect various dimensions (e.g., demographics and health indicators) into a coherent reporting structure.
+
+📈 Outcomes and Impact:
+Helps identify high-risk individuals based on demographic and health features.
+Supports data-driven preventive care planning and awareness campaigns.
+Enables users to drill down into specific segments (e.g., age group, gender) for targeted interventions.
+Demonstrates how visual analytics can simplify complex medical datasets for actionable insights.
+
+📁 Files Included:
+Heart Disease Analysis Dashboard.pbix: The interactive Power BI dashboard file.
+Heart Disease Analysis Dashboard.pdf: A visual summary report in PDF format.
+heart_disease_dataset.csv: The dataset used for the analysis.
+
